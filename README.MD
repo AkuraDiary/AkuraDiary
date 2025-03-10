@@ -33,8 +33,7 @@ Here are some of the projects I've worked on, some is useful, some is not quite:
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkuraDiary)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asthiseta)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/asthiseta)
-[![Dicoding](https://img.shields.io/badge/Dicoding-002E5D?style=for-the-badge&logo=dicoding&logoColor=white)](https://www.dicoding.com/astiseta)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/asthi_21_)
 
 ---
 
