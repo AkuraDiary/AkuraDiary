@@ -30,6 +30,7 @@ Here are some of the projects I've worked on and contributed to, some is useful,
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF0000?style=for-the-badge&logo=laravel&logoColor=red)
 
 ## Let's Connect!
 
