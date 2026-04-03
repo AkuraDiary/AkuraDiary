@@ -1,12 +1,12 @@
 # Hello There! 👋
 
-I'm **Asthi Seta**, a 21-year-old Software Engineering student at Telkom University Surabaya, East Java, Indonesia. With 3 years of hands-on experience, I specialize in Android Native Kotlin and Flutter development. Additionally, I have strong proficiency in Adobe Illustrator and Figma for design, and I enjoy street photography.
+I'm **Asthi Seta**, a 21-year-old Software Engineering student at Telkom University Surabaya, East Java, Indonesia. With up to 4 years of hands-on experience, I specialize in Android Native Kotlin and Flutter development. Additionally, I have strong proficiency in Adobe Illustrator and Figma for design, and I enjoy street photography.
 
 ## About Me
 
 - **Location:** East Java, Indonesia
-- **Education:** Second-year Software Engineering student at Telkom University Surabaya
-- **Experience:** 3 years in Android Native Kotlin and Flutter development
+- **Education:** Third-year Software Engineering student at Telkom University Surabaya
+- **Experience:** Up to 4 years in Android Apps Development both using Kotlin and Flutter
 - **Design Skills:** Proficient in Adobe Illustrator and Figma
 - **Interests:** Mobile Development, Vector Illustration, Street Photography, Creative Design
 
