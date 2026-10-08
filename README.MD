@@ -19,10 +19,11 @@ I'm **Asthi Seta**, a 21-year-old Software Engineering student at Telkom Univers
 
 ## Projects
 
-Here are some of the projects I've worked on and contributed to, some is useful, some not quite:
+Here are some of the projects I've worked on and contributed to; some are useful, some are... not quite:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=reforestation&theme=dark)](https://github.com/AkuraDiary/reforestation)
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=somethinginmyeye&theme=dark)](https://github.com/AkuraDiary/somethinginmyeye)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=simas&theme=dark)](https://github.com/AkuraDiary/simas)
 
 ## Skills and Tools
 
